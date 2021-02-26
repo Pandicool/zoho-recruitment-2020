@@ -23,7 +23,7 @@ public class SimpleCode {
 			for (int j = 0; j < i+1; j++) {
 				System.out.print(rearrange[j]);
 			}
-			System.out.println("\n");
+			System.out.println("");
 		}
 	}
 
